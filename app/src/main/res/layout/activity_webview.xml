@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+				android:id="@+id/webview_layout"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:orientation="vertical">
+
+	<LinearLayout
+		android:id="@+id/layout_title"
+		android:layout_width="match_parent"
+		android:layout_height="@dimen/ui_preferred_title_height"
+		android:background="@color/web_fragment_title_bg"
+		android:gravity="center_vertical"
+		android:focusable="true"
+		android:focusableInTouchMode="true"
+		android:padding="@dimen/small_padding">
+
+		<ImageView
+			android:id="@+id/imageview_back_btn"
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:src="@drawable/icon_webview_back" />
+
+		<EditText
+			android:id="@+id/edittext_webview_title"
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:layout_marginLeft="@dimen/large_margin"
+			android:layout_weight="1"
+			android:background="@color/transparent_white_80"
+			android:imeOptions="actionGo"
+			android:paddingLeft="@dimen/tiny_padding"
+			android:paddingRight="@dimen/tiny_padding"
+			android:singleLine="true"
+			android:textSize="@dimen/text_size_f3"/>
+
+		<TextView
+			android:id="@+id/txtview_load_url"
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:paddingLeft="@dimen/small_padding"
+			android:paddingRight="@dimen/small_padding"
+			android:gravity="center"
+			android:text="@string/confirm"
+			android:textColor="@color/default_bg_color"
+			android:textSize="@dimen/text_size_f3"
+			android:singleLine="true"
+			android:includeFontPadding="false" />
+	</LinearLayout>
+
+	<com.example.qr_codescan.web.AlphaProgressView
+		android:id="@+id/internal_webview_progressbar"
+		android:layout_width="match_parent"
+		android:layout_height="@dimen/alpha_progress_height"
+		android:paddingLeft="@dimen/tiny_padding"
+		android:paddingRight="@dimen/tiny_padding"
+		android:layout_alignBottom="@id/layout_title"/>
+
+	<RelativeLayout
+		android:id="@+id/layout_webview_bottom"
+		android:layout_width="match_parent"
+		android:layout_height="@dimen/ui_preferred_title_height"
+		android:layout_alignParentBottom="true"
+		android:background="@color/grayscale6"
+		android:gravity="center_vertical"
+		android:clickable="true">
+
+		<ImageView
+			android:id="@+id/page_back"
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:layout_alignParentLeft="true"
+			android:layout_marginLeft="@dimen/large_margin_2x"
+			android:padding="@dimen/small_padding"
+			android:rotation="180"
+			android:src="@drawable/btn_arrow_forward" />
+
+		<View
+			android:id="@+id/center_placeholder"
+			android:layout_width="0dp"
+			android:layout_height="wrap_content"
+			android:layout_centerInParent="true"></View>
+
+		<ImageView
+			android:id="@+id/page_forward"
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:layout_toLeftOf="@id/center_placeholder"
+			android:layout_marginRight="@dimen/large_margin_3x"
+			android:padding="@dimen/small_padding"
+			android:src="@drawable/btn_arrow_forward" />
+
+		<ImageView
+			android:id="@+id/page_refresh"
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:layout_alignParentRight="true"
+			android:layout_marginRight="@dimen/large_margin_2x"
+			android:padding="@dimen/small_padding"
+			android:src="@drawable/refresh" />
+
+	</RelativeLayout>
+
+	<View
+		android:id="@+id/separator_line"
+		android:layout_width="match_parent"
+		android:layout_height="1dp"
+		android:layout_above="@id/layout_webview_bottom"
+		android:background="@color/grayscale4">
+
+	</View>
+
+	<!--<RelativeLayout-->
+	<!--android:id="@+id/webview_title_layout"-->
+	<!--android:layout_width="match_parent"-->
+	<!--android:layout_height="wrap_content"-->
+	<!--android:layout_below="@id/internal_webview_progressbar"-->
+	<!--android:background="@color/default_pink"-->
+	<!-->-->
+	<!--<ImageButton-->
+	<!--android:id="@+id/webview_back_btn"-->
+	<!--android:layout_width="@dimen/back_to_ish_btn_width"-->
+	<!--android:layout_height="@dimen/back_to_ish_btn_height"-->
+	<!--android:layout_alignParentLeft="true"-->
+	<!--android:layout_centerVertical="true"-->
+	<!--android:layout_margin="@dimen/default_margin_2x"-->
+	<!--android:background="@color/default_pink"-->
+	<!--android:src="@drawable/webview_back_arrow"-->
+	<!--android:scaleType="centerInside"-->
+	<!--/>-->
+	<!--<TextView-->
+	<!--android:id="@+id/webview_title"-->
+	<!--android:layout_width="wrap_content"-->
+	<!--android:layout_height="wrap_content"-->
+	<!--android:gravity="center"-->
+	<!--android:layout_centerInParent="true"-->
+	<!--android:layout_marginLeft="@dimen/large_margin_3x"-->
+	<!--android:layout_marginRight="@dimen/large_margin_3x"-->
+	<!--android:text="@string/empty_txt"-->
+	<!--android:textColor="@color/default_bg_color"-->
+	<!--android:textSize="@dimen/text_size_f2"-->
+	<!--android:textStyle="bold"-->
+	<!--android:singleLine="true"/>-->
+	<!--</RelativeLayout>-->
+
+
+	<!--<com.windfindtech.ishanghai.view.InternalWebView-->
+	<!--android:id="@+id/internal_webview"-->
+	<!--android:layout_width="match_parent"-->
+	<!--android:layout_height="0dp"-->
+	<!--android:layout_weight="12">-->
+
+	<!--</com.windfindtech.ishanghai.view.InternalWebView>-->
+
+	<!--<View-->
+	<!--android:layout_width="match_parent"-->
+	<!--android:layout_height="0dp"-->
+	<!--android:layout_weight="1"-->
+	<!-->-->
+	<!--</View>-->
+
+</RelativeLayout>

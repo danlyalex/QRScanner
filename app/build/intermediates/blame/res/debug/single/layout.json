@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title.xml",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nfc.xml",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\layout\\nfc.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\solarize.xml",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\layout\\solarize.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zbar_capture.xml",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\layout\\zbar_capture.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scanner.xml",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\layout\\activity_scanner.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nfcitem.xml",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\layout\\nfcitem.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview.xml",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nfcwrite.xml",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\layout\\nfcwrite.xml"
+    }
+]

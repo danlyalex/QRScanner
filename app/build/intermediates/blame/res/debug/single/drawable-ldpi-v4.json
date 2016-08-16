@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\camera_icon_flash_auto.png",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable-ldpi\\camera_icon_flash_auto.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\camera_btn_flash_close_push.png",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable-ldpi\\camera_btn_flash_close_push.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\camera_icon_flash_open.png",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable-ldpi\\camera_icon_flash_open.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\camera_btn_album_normal.png",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable-ldpi\\camera_btn_album_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\camera_btn_album_push.png",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable-ldpi\\camera_btn_album_push.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\camera_icon_flash_close.png",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable-ldpi\\camera_icon_flash_close.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\camera_btn_flash_auto_push.png",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable-ldpi\\camera_btn_flash_auto_push.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\camera_btn_flash_open_push.png",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable-ldpi\\camera_btn_flash_open_push.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\first_news_title.png",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable-ldpi\\first_news_title.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\mini_year_month_picker_down.9.png",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable-ldpi\\mini_year_month_picker_down.9.png"
+    }
+]

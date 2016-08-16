@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent_white_26">#26FFFFFF</color>
+    <color name="default_white">#FFFFFFFF</color>
+    <color name="web_fragment_title_bg">#FF3A3A3A</color>
+    <color name="default_fg_color">#FF000000</color>
+    <color name="default_bg_color">#FFFFFFFF</color>
+    <color name="default_link_color">#FF6E6E6E</color>
+
+    <color name="grayscale1">#FF333333</color>
+    <color name="grayscale2">#FF666666</color>
+    <color name="grayscale3">#FF999999</color>
+    <color name="grayscale4">#FFCCCCCC</color>
+    <color name="grayscale5">#FFD9D9D9</color>
+    <color name="grayscale6">#FFEEEEEE</color>
+    <color name="grayscale_half">#FF808080</color>
+    <color name="default_pink">#FFDC5461</color>
+    <color name="alpha_pink">#88e41931</color>
+    <color name="dark_pink">#FFC72727</color>
+    <color name="default_orange">#FFF58222</color>
+    <color name="default_blue">#FF0095FF</color>
+    <color name="light_red">#FFF7797C</color>
+    <color name="dark_blue">#FF0042FF</color>
+    <color name="light_blue">#FF0095FF</color>
+    <color name="purple_blue">#FF5953C1</color>
+    <color name="default_black">#FF000000</color>
+    <color name="purple_semi_transparent">#806363DB</color>
+    <color name="blue_purple">#FF6363DB</color>
+    <color name="default_green">#FF81BA38</color>
+    <color name="default_purple">#FF8F5BD5</color>
+    <color name="default_yellow">#FFF5B222</color>
+    <color name="default_red">#FFE05C61</color>
+    <color name="light_purple">#FF633BDB</color>
+    <color name="dark_purple">#FF3C29AA</color>
+
+    <color name="transparent_reveal_color">#1b000000</color>
+    <color name="transparent_white_90">#90FFFFFF</color>
+    <color name="transparent_white_80">#80FFFFFF</color>
+    <color name="transparent_white_c0">#C0FFFFFF</color>
+    <color name="transparent_black_ca">#CA000000</color>
+    <color name="transparent_black_80">#80000000</color>
+    <color name="transparent_white_00">#00FFFFFF</color>
+    <color name="transparent_black_22">#22000000</color>
+    <color name="transparent_black_78">#78000000</color>
+    <color name="transparent_gray_e6">#E6434249</color>
+
+    <color name="finance_red">#FFFF5252</color>
+    <color name="finance_green">#7AA43E</color>
+    <color name="light_yellow">#FFF6E153</color><!--TODO py -->
+    <color name="bg_partly_rating_dialog">#FFFFF7D4</color><!--TODO py -->
+
+    <!--tab color-->
+    <color name="background_tab_pressed">#6633B5E5</color>
+
+    <!--device color-->
+    <color name="device_approve">#00B000</color>
+    <color name="device_deny">#EE0000</color>
+    <color name="device_pending">#00CCEE</color>
+    <color name="device_delete">#11B7FF</color>
+    <color name="device_date_color">#FFF58222</color>
+    <!--user fragment related-->
+    <color name="user_gender_male_button">#FF0095FF</color>
+    <color name="user_gender_male_button_press">#FF0084EE</color>
+    <color name="user_gender_female_button">#FFEB7F28</color>
+    <color name="user_gender_female_button_press">#FFBB6F19</color>
+    <color name="user_fragment_title_underline">#FFC72727</color>
+    <color name="user_fragment_title_bg">#FFDC5461</color>
+    <color name="avatar_border">#FFDC5461</color>
+    <color name="dialog_title_text_color">#FFDC5461</color>
+
+    <color name="write">#ffffff</color>
+    <color name="breaks">#000000</color>
+    <color name="comment"> #576366</color>
+    <color name="forum1">#125CCB</color>
+    <color name="forum2">#3C90F3</color>
+    <color name="forum3">#17A2B7</color>
+    <color name="forum4">#C6395F</color>
+    <color name="sufMain">#4A4A4A</color>
+    <color name="scanMain">#BFEFFF</color>
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="possible_result_points">#c0ffbd21</color> <!-- Android standard ICS color -->
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c099cc00</color> <!-- Android standard ICS color -->
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#60000000</color>
+
+    <color name="red">#ff0000</color> <!-- 红色 -->
+</resources>

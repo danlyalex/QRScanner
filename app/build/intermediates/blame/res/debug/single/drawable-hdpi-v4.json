@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_normal.9.png",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_arrow_forward.png",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable-hdpi\\btn_arrow_forward.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_pressed.9.png",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\first_news_title.png",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable-hdpi\\first_news_title.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_normal.9.png",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_webview_back.png",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable-hdpi\\icon_webview_back.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_focused.9.png",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_focused.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mmtitle_bg_alpha.9.png",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable-hdpi\\mmtitle_bg_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qrcode_scan_line.png",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable-hdpi\\qrcode_scan_line.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_menu_normal.png",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_menu_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_pressed.9.png",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh.png",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable-hdpi\\refresh.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_focused.9.png",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_focused.9.png"
+    }
+]

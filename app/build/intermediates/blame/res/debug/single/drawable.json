@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_right_btn.xml",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable\\mm_title_right_btn.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zdbg_btn.xml",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable\\zdbg_btn.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_back_btn.xml",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable\\mm_title_back_btn.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio-workspace\\QRScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sdbg_btn.xml",
+        "source": "E:\\AndroidStudio-workspace\\QRScanner\\app\\src\\main\\res\\drawable\\sdbg_btn.xml"
+    }
+]

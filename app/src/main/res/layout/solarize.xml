@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:background="@drawable/first_news_title"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/TextView01"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:gravity="center"
+            android:text="快门"
+            android:textColor="#ffffff"
+            android:textSize="22dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="30dp" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="30dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="低"
+                android:textColor="@color/write"
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/ditext"
+                android:layout_width="30dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="00"
+                android:textColor="@color/write"
+                android:textSize="18dp" />
+
+            <SeekBar
+                android:id="@+id/di_seekBar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:max="200" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="30dp" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="30dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="高"
+                android:textColor="@color/write"
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/gaotext"
+                android:layout_width="30dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="80"
+                android:textColor="@color/write"
+                android:textSize="18dp" />
+
+            <SeekBar
+                android:id="@+id/gao_seekBar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:max="10" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:background="@drawable/first_news_title"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/TextView01"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:gravity="center"
+            android:text="曝光度"
+            android:textColor="#ffffff"
+            android:textSize="22dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal" >
+   <TextView
+                android:id="@+id/bgdtext"
+                android:layout_width="30dp"
+                android:layout_height="match_parent"
+                android:gravity="center"       android:layout_marginLeft="20dp"
+                android:text="80"
+                android:textColor="@color/write"
+                android:textSize="18dp" />
+        
+        <SeekBar
+            android:id="@+id/bgdseekBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+     
+            android:layout_marginRight="10dp"
+          
+            android:max="130" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,3 @@
+CHANGED,E:\AndroidStudio-workspace\QRScanner\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\qr_codescan\activity\ScannerActivity$override.class
+CHANGED,E:\AndroidStudio-workspace\QRScanner\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\qr_codescan\activity\ScannerActivity$ScanBroadcastReceiver$override.class
+CHANGED,E:\AndroidStudio-workspace\QRScanner\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

@@ -1,0 +1,97 @@
+<resources>
+    <dimen name="alpha_progress_height">5dp</dimen>
+    <dimen name="text_size_f1">10sp</dimen>
+    <dimen name="text_size_f2">12sp</dimen>
+    <dimen name="text_size_f3">14sp</dimen>
+    <dimen name="text_size_f4">15sp</dimen>
+    <dimen name="text_size_f5">17sp</dimen>
+    <dimen name="text_size_f6">19sp</dimen>
+    <dimen name="text_size_f7">22sp</dimen>
+    <dimen name="text_size_huge">50sp</dimen>
+
+    <dimen name="negative_large_margin">-8dp</dimen>
+    <dimen name="small_margin">1dp</dimen>
+    <dimen name="default_margin">2dp</dimen>
+    <dimen name="default_margin_2x">4dp</dimen>
+    <dimen name="large_margin">8dp</dimen>
+    <dimen name="large_margin_1.5x">12dp</dimen>
+    <dimen name="large_margin_2x">16dp</dimen>
+    <dimen name="large_margin_3x">24dp</dimen>
+    <dimen name="large_margin_4x">32dp</dimen>
+    <dimen name="large_margin_5x">40dp</dimen>
+    <dimen name="large_margin_6x">48dp</dimen>
+    <dimen name="default_margin_2x_negative">-4dp</dimen>
+    <dimen name="large_margin_negative">-8dp</dimen>
+
+    <dimen name="tiny_padding">2dp</dimen>
+    <dimen name="small_padding">5dp</dimen>
+    <dimen name="semi_small_padding">7dp</dimen>
+    <dimen name="semi_small_padding_title">10dp</dimen>
+    <dimen name="default_padding">10dp</dimen>
+    <dimen name="large_padding">15dp</dimen>
+    <dimen name="large_padding_1.5x">22dp</dimen>
+    <dimen name="large_padding_2x">30dp</dimen>
+    <dimen name="large_padding_3x">45dp</dimen>
+
+    <dimen name="text_padding">8dp</dimen>
+    <dimen name="text_padding_tiny">2dp</dimen>
+    <dimen name="text_padding_small">5dp</dimen>
+    <dimen name="text_padding_default">10dp</dimen>
+    <dimen name="text_padding_large">15dp</dimen>
+
+    <dimen name="ui_preferred_title_height">48dp</dimen>
+    <dimen name="ui_preferred_subtitle_height">40dp</dimen>
+    <dimen name="ui_preferred_header3_height">30dp</dimen>
+
+    <dimen name="round_point_width">8dp</dimen>
+    <dimen name="round_point_height">8dp</dimen>
+
+    <dimen name="list_item_space_height">24dp</dimen>
+
+    <!--weather layout related-->
+    <dimen name="weather_index_gridview_height">140dp</dimen>
+    <dimen name="weather_index_item_height">70dp</dimen>
+    <dimen name="weather_week_curve_height">255dp</dimen>
+    <dimen name="weather_day_curve_height">170dp</dimen>
+    <dimen name="weather_aqi_layout_height">25dp</dimen>
+    <dimen name="aqi_list_divider_height">1dp</dimen>
+
+    <!--title bar-->
+    <dimen name="interactive_padding">5dp</dimen>
+    <dimen name="title_padding_default">9dp</dimen>
+    <dimen name="title_indicator_width">42dp</dimen>
+    <dimen name="title_indicator_height">3dp</dimen>
+
+    <!--fuel trend graph-->
+    <dimen name="fuel_trend_brand_width">36dp</dimen>
+    <dimen name="fuel_trend_brand_height">36dp</dimen>
+
+    <!--dialog related-->
+    <dimen name="dialog_horizontal_margin">10dp</dimen>
+
+    <!--rating dialog-->
+    <dimen name="ratingbar_height">48dp</dimen>
+    <dimen name="edit_rating_detail_height">64dp</dimen>
+    <dimen name="padding_checkbox">25dp</dimen>
+    <dimen name="submit_height">48dp</dimen>
+
+    <!--oval background-->
+    <dimen name="oval_radius">10dp</dimen>
+
+    <!--user fragment related-->
+    <dimen name="round_number_hint_width">15dp</dimen>
+    <dimen name="round_number_hint_height">15dp</dimen>
+    <dimen name="fragment_left_margin">20dp</dimen>
+    <dimen name="fragment_right_margin">20dp</dimen>
+    <dimen name="fragment_left_margin_2x">40dp</dimen>
+    <dimen name="fragment_right_margin_2x">40dp</dimen>
+    <dimen name="list_item_min_height">44dp</dimen>
+    <dimen name="list_option_divider_height">2dp</dimen>
+    <dimen name="list_item_option_height">60dp</dimen>
+    <dimen name="avatar_image_width">70dp</dimen>
+    <dimen name="avatar_image_height">70dp</dimen>
+    <dimen name="dimen_margin_gap">13dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+</resources>
